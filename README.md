@@ -1,6 +1,4 @@
-# Flixster - Unit2App
-
-# Project 2 - *Name of App Here*
+# Project 2 - Flixster
 
 Submitted by: Abraham Robles
 
