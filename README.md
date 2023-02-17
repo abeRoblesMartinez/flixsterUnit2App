@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-[Walkthrough](http://i.imgur.com/A1k3xBI.gif)
+[Walkthrough](https://imgur.com/gallery/A1k3xBI)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
