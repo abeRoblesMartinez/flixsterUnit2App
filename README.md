@@ -30,6 +30,7 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://imgur.com/a/A1k3xBI' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Imgur Image](http://i.imgur.com/A1k3xBI.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with [Kap](https://getkap.co/) for macOS
